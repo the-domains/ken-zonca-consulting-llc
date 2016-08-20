@@ -1,3 +1,4 @@
+layout_spectrum: 0.4481925785075873
 typography_spectrum: 0.801490013487637
 color:
   brandStrength: 0.8645763003733009
@@ -5,12 +6,9 @@ color:
   saturation: 0.0007333599496632814
   rhythmicContrast: 0.2856783492024988
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-layout_spectrum: 0.4481925785075873
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: 'Ken Zonca Consulting, LLC'
-title: 'Ken Zonca Consulting, LLC'
-description: Professional IT & Computer Consulting
